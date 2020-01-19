@@ -1,6 +1,6 @@
 # Shark attack database
 
-The shark attack database project consist on cleaning a very messy db of shark attacks register over the years in different places all over the world. The main goal of the project is to  
+The shark attack database project consist on cleaning a very messy db of shark attacks register over the years in different places all over the world. 
 
 ## Usage
 
